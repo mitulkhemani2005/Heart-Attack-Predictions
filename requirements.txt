@@ -5,4 +5,5 @@ uvicorn
 xgboost
 pydantic
 streamlit
+altair
 requests
