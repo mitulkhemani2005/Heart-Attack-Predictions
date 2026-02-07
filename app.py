@@ -132,7 +132,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # API endpoint
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "http://localhost:8000/predict"
 
 # Create form columns
 col1, col2, col3 = st.columns(3)
